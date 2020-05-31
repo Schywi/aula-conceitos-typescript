@@ -70,6 +70,7 @@ Ex: `techs: Array<string | TechObjects> `
 **3º** Caso não aja condições ou outros tipos , usamos "tipo[]".
 
 Por exemplo se for só um array com strings,  "strings[]".
+
 Ex: `techs: string[]`.
 
 
