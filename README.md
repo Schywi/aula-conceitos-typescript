@@ -13,9 +13,7 @@ Com ele você se certifica que um valor não esta sendo passado da forma errada.
 
 ## Conceitos abordados
 
-### Formas de se tipar algo
-
-Formas de se tipar :
+#### Formas de se tipar algo
 
 **1)** Setar valor padrão : definir o valor na frente da variavel.
 Ex: name = '' ; = string (tipagem não obrigatoria)
@@ -65,7 +63,7 @@ Ex: `techs: Array<string | TechObjects> `
 	  title: string;
 	  experience: number;
 	}
-    ```
+  ```
 
 **OBS:** "|" = ou , pode ser usado em qualquer lugar depois dos ":" ou  de qualquer tipo.
 
