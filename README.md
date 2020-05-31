@@ -25,7 +25,7 @@ Ex: `email: string`
 
 Dentro da desestruturação o ":" serve para alterar nome de variavel
 
-#### Quando fazer a desestruturação da tipagem:
+#### Quando fazer a desestruturação da tipagem
 
 Devemos definir qual o tipo do parametro da função em uma variavel separada (chamada "interface").
 
@@ -34,7 +34,7 @@ Interface: define o tipo de um conjunto de informações.
 Dados com "?" = dado não obrigatório na interface.
 
 
-#### Formas de definir a tipagem de um vetor: 
+### Formas de definir a tipagem de um vetor
 
 **1º** Usando um array, dentro do <> colocamos o formato das informações  que estão dentro do array. 
 
