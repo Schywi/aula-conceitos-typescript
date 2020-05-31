@@ -71,6 +71,7 @@ Ex: `techs: Array<string | TechObjects> `
 
 Por exemplo se for só um array com strings,  "strings[]".
 
+
 Ex: `techs: string[]`.
 
 
